@@ -136,4 +136,3 @@ out
 .pnp.*
 
 dist/*
-!dist/index.html
