@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // modern browsers
+    "module": "ESNext", // keep ES modules
+    "strict": true,
+    "outDir": "./dist", // compiled JS goes here
+    "rootDir": "./src",
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
